@@ -25,6 +25,12 @@ However, using my key is pointless. It’s tied to strict usage limits, domain r
 
 You can find the extension `.crx` file [here](https://github.com/MUmarShahbaz/YT-Playlist-Length/releases/tag/v1.0.0)
 
+**NOTE: Some browsers try to install directly and block the download. If you face an issue where you cannot download it from your browser, open the terminal in the download folder and use the following command**
+
+```bash
+wget "https://github.com/MUmarShahbaz/YT-Playlist-Length/releases/download/v1.0.0/YT-Playlist-Length.crx" -O YT-Playlist-Length.crx
+```
+
 - On most browsers you can just use the the .crx file
 - On Chrome, you need to go a roundabout method.
 
